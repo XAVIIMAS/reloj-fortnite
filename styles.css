@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Burbank';
+    src: url('fonts/BurbankBigCondensed-Bold.otf') format('opentype');
+}
+
+#countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Burbank', Arial, sans-serif;
+}
+
+#countdown div {
+    margin: 10px;
+    font-size: 2em;
+    color: #FFF;
+}
